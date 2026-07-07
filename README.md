@@ -8,7 +8,7 @@
 ### 🛠 Технический стек
 **Языки:** C++, С#, Python, Lua, SQL, Delphi, HTML/CSS/JS(Basic)  
 **Фреймворки и движки:** Unreal Engine, Unity, Qt, SFML, .NET  
-**Инструменты:** Git, CMake, STL, Boost, PostgreSQL  
+**Инструменты:** Git, CMake, STL, Boost, PostgreSQL, SQLite  
 **Системное администрирование:** Cisco, TCP/IP, VPN, Kerio Control, Unix/Linux, Windows Server (AD, DNS, DHCP)  
 
 ---
